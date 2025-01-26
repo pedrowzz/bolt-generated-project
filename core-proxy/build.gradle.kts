@@ -1,4 +1,4 @@
 dependencies {
-  implementation(project(":core"))
-  compileOnly("net.md-5:bungeecord-api:1.16-R0.4")
+    implementation(project(":core"))
+    compileOnly("net.md-5:bungeecord-api:1.19-R0.1-SNAPSHOT")
 }

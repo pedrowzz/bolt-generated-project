@@ -1,3 +1,3 @@
 dependencies {
-  // Add shared dependencies here
+    implementation("mysql:mysql-connector-java:8.0.33")
 }
